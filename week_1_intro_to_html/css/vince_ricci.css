@@ -1,0 +1,58 @@
+/* Main CSS */
+body{
+    margin: 2%;
+    background-color: #CCE6FF;
+}
+#photo{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 5px solid #033d96;
+}
+h2{
+    color: #FF6600;
+    font-family: Arial, Helvetica, sans-serif;
+}	
+em{
+    font-weight: bold;
+}
+a{
+    color:dimgrey;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    font-weight: 600;
+}
+#table table{
+    color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    background-color: dimgrey;
+    padding: 2px;
+}
+#table td{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: white;
+}
+#table th{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: darkgrey;
+}
+.morelinks h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    }
+#podcasts a{
+    flex: 33%;
+    padding: 10px;
+    margin: auto;
+}
+#knitting a{
+    flex: 33%;
+    padding: 10px;
+    margin: auto;
+}
