@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Test</title>
-    </head>
-        <body>
-<?php>
+
+<head>
+    <title>Test</title>
+</head>
+
+<body>
+    <?php
 $x = 0;
 if($x){
-    echo "The value of x is $x<br/>";
+    echo "1 - The value of x is $x <br/>";
 } else {
-    echo 'The value of x is $x'<br/>;
+    echo '2 - The value of x is $x <br/>';
 }
 ?>
-        </body>
+</body>
+
 </html>
