@@ -1,0 +1,76 @@
+Vince Ricci - Pop Quiz Homework - February 20, 2021
+
+1. If my project folder is in my home directory, give me a cli command to get to it from anywhere
+	cd~
+
+
+2. I have made changes to 4 files in my project, I want to add all of those changes, what it the correct command to use?
+	git add .
+
+
+3. I have made changes to 4 files in my project, I want to add the changes from all but one of those files, what it the correct command to use?
+	git add file_a file_b file_c ( leaving out file_d)
+
+4. Explain what mv does and give an example of how to use it.
+	moves a file or files from one directory to another
+	mv file1/dir1 file1/dir2
+
+
+5. I made committed changes to my main branch by mistake. Do I have to redo those changes on a new branch?
+	no
+
+6. If not, what should I do?
+	checkout to branch then then commit. 
+	(This was what was in my notes from class. What I found online was not as simple so I’m not sure on this)
+
+
+7. What is the difference between git add . and git commit -a?
+	git add . Adds all of your files to staging
+	git commit -a - adds all of your files to staging and saves them to your local repository
+
+
+8. What does rm do? How is it used with directories?
+	Removes files and directories
+	rm -d directory name (removes empty directories)
+	rm -r directory name (removes directory and files in it)
+
+
+9. Once I've staged my changes in git, what do I have to do next?
+	Commit the changes with git commit -m “message of what was done in these files”
+
+
+10. How can I override something in a css file? Give at least one example.
+	Use Internal Style Sheets in the <head> of the HTML file
+<html>
+	<head>
+		<title>Title of Document</title>
+		<style>
+			body {
+				background-color: #000000;
+			}
+			p {
+				color: #FFFFFF;
+			}
+		</style>
+	</head>
+	<body>
+		<p>Some document text</p>
+	</body>
+</html>
+
+
+11. How do I link my css to my html page?
+	Add a link in the <head> of the HTML file 
+	ex: <link rel=“stylesheet” href=“styles.css”>
+
+
+12. What is the output of this code?
+
+$x = 0;
+if($x){
+    echo "The value of x is $x";
+} else {
+    echo 'The value of x is $x';
+}
+
+	I remember what we discussed in class. I attempted the code and can only get all the text to show in the browser.
