@@ -24,16 +24,67 @@
 
     <?php
     if (isset($_POST['submit_btn'])) {
-        $adjective = $_POST['adjective'];
-        $season = $_POST['season'];
-        $furniture = $_POST['furniture'];
-        $noun = $_POST['noun'];
-        $beverage = $_POST['beverage'];
-        $number = $_POST['number'];
-        $place = $_POST['place'];
-        $clothing = $_POST['clothing'];
-        $relative = $_POST['relative'];
-        $state = $_POST['state'];
+        $adjective = '';
+        $season = '';
+        $furniture = '';
+        $noun = '';
+        $beverage = '';
+        $number = '';
+        $place = '';
+        $clothing = '';
+        $relative = '';
+        $state = '';
+
+        if(!empty($_POST['adjective'])){
+            $adjective = $_POST['adjective'];
+        }else {
+            echo "<h1 style='color: red'>Adjective cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['season'])){
+            $season = $_POST['season'];
+        }else {
+            echo "<h1 style='color: red'>Season cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['furniture'])){
+            $furniture = $_POST['furniture'];
+        }else {
+            echo "<h1 style='color: red'>Furniture cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['noun'])){
+            $noun = $_POST['noun'];
+        }else {
+            echo "<h1 style='color: red'>Noun cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['beverage'])){
+            $beverage = $_POST['beverage'];
+        }else {
+            echo "<h1 style='color: red'>Beverage cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['number'])){
+            $number = $_POST['number'];
+        }else {
+            echo "<h1 style='color: red'>Number cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['place'])){
+            $place = $_POST['place'];
+        }else {
+            echo "<h1 style='color: red'>Place cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['clothing'])){
+            $clothing = $_POST['clothing'];
+        }else {
+            echo "<h1 style='color: red'>Article of Clothing cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['relative'])){
+            $relative = $_POST['relative'];
+        }else {
+            echo "<h1 style='color: red'>Related to You cannot be empty!!</h1>";
+        }
+        if(!empty($_POST['state'])){
+            $state = $_POST['state'];
+        }else {
+            echo "<h1 style='color: red'>Name of a State cannot be empty!!</h1>";
+        }
         echo "<h2>A Cold Day In February</h2>";
         echo "It was a <b>$adjective</b> day in February.<br/>";
         echo "Vince was sure it was the coldest <b>$season</b> he had ever lived through.<br/>";
