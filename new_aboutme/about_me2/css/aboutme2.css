@@ -1,0 +1,25 @@
+#header {
+	background-color: #033D96;
+}
+header h1 {
+	color: #FFFFFF;
+	background-color: #033D96;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+/* Navigation Bar */
+.bg-light {
+	background-color: #033D96!important;
+}
+.navbar-light .navbar-nav .nav-link {
+	background-color: #033D96;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #FFFFFF;
+}
+.dropdown-menu {
+	background-color: #EB503B;
+}
+
