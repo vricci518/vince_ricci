@@ -1,3 +1,7 @@
+body {
+	background-color: #033D9680;
+}
+
 #header {
 	background-color: #033D96;
 }
@@ -14,9 +18,9 @@ header h1 {
 	background-color: #033D96!important;
 }
 .navbar-light .navbar-nav .nav-link {
-	background-color: #2373EB;
+	background-color: #7C9E10;
 	color: #FFFFFF;
 }
 .dropdown-menu {
-	background-color: #EB503B;
+	background-color: #B6EB0C;
 }
