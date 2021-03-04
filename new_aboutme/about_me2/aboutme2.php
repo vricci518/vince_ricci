@@ -33,5 +33,14 @@
 	<!-- Option 1: Bootstrap Bundle with Popper -->
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
+	<div class="container-fluid">
+		<h2>A Little Bit About Me</h2>
+		<div >
+			<p>
+				Hi there, my name is Vince and welcome to my page. So let's start with some information about me. I'm from Buffalo, New York and I've lived here all of my life. I went to college at SUNY Buffalo State College where I received a Bachelors of Fine Arts degree. I am a Graphic Designer/Graphic Artist who has worked in a variety of positions in the field, involving printing, pre-press, design and layout, marketing, e-commerce, and social media.
+			</p>
+		</div>
+
+	</div>
 
 </html>
