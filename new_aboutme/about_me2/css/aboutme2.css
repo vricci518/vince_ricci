@@ -4,7 +4,6 @@ body {
 
 #header {
 	background-color: #033D96;
-	z-index: 1;
 }
 
 header h1 {
@@ -61,5 +60,13 @@ h2 {
 }
 
 #intro {
-	width: 80%;
+	width: 85%;
+}
+
+.col-sm-12 {
+	padding-bottom: 2%;
+}
+
+.row img {
+	border: .25rem solid #7C9E10;
 }

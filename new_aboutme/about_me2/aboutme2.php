@@ -31,26 +31,47 @@
 		</div>
 	</div>
 	<!-- Intro page information -->
-<div class="container-fluid" id="intro">
-	<h2>A Little Bit About Me</h2>
-	<div>
-		<p>
-			Hi there, my name is Vince and welcome to my page. So let's start with some information about me. I'm from Buffalo, New York and I've lived here all of my life. I went to college at SUNY Buffalo State College where I received a Bachelors of Fine Arts degree. I am a Graphic Designer/Graphic Artist who has worked in a variety of positions in the field: involving printing, pre-press, design and layout, marketing, e-commerce, and social media. I'm currently studying Web development to expand my opportunities to include Web Design and Front End Development.</p>
-		<p>
-			Outside of my professional career I have a variety of interests that I'm involved with. I have a long-time interest in charity fund-raising and have been a member of <em>The Imperial Court of Buffalo</em> since 1994. The Imperial Court is a grassroots organization in Western New York that is affliated with the <em>International Court System</em>. It is a 501-(c)3 Not For Profit that raises funds for various AIDS/HIV and LGBTQ+ charities in Buffalo, NY and the surrounding Western New York Area. During my time as a member I've held numerous postions within the Board of Directors as well as two terms as <em>"Emperor,"</em> which is one of the two elected fundraising chairs of the organization. I currently sit as the President of the Board of Directors.
-		</p>
-		<p>
-			I am also an avid knitter, having first learning how to knit in the late 1980's. I am a long time member of <em>The Knitting Guild of Greater Buffalo</em> and one of the few male knitters within the group. But our numbers are growing. I have also become a member of <em>The Men Who Knit</em> online community, as well as having attended several of the regional <em>Men's Knitting Retreats</em>. 
-		</p>
-		<p>
-			In Ocotber of 2020 I entered the world of Podcasting by creating a YouTube Video Channel called <em>Boozie Bears Knitting Podcast</em>. Together with my good friend Justin, we co-host an online video program about knitting and the fiber arts. We publish a new episode every 2-3 weeks and each episode runs between 60 and 90 minutes. In each episode we discuss and show what we are currently working on, what we have completed, purchases and fiber related acquisitions, as well as anything else we feel the need to discuss. We have a growing following of subscribers and recently held our very first LIVE broadcast. 
-		</p>
-		<p>
-			Be sure to check out the other pages of my site as well as my Links for more information on all of this.
-		</p>
-	</div>
+	<div class="container-fluid" id="intro">
+		<h2>A Little Bit About Me</h2>
+		<div class="row">
+			<div class="col-sm-12 col-md-8 col-lg-9">
+				<p>
+					Hi there, my name is Vince and welcome to my page. So let's start with some information about me. I'm from Buffalo, New York and I've lived here all of my life. I went to college at SUNY Buffalo State College where I received a Bachelors of Fine Arts degree. I am a Graphic Designer/Graphic Artist who has worked in a variety of positions in the field: involving printing, pre-press, design and layout, marketing, e-commerce, and social media. I'm currently studying Web development to expand my opportunities to include Web Design and Front End Development.
+				</p>
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/vince_hs.jpg" alt="vince head shot">
+			</div>
+			<div class="col-sm-12 col-md-8 col-lg-9">
+				<p>
+					Outside of my professional career I have a variety of interests that I'm involved with. I have a long-time interest in charity fund-raising and have been a member of <em>The Imperial Court of Buffalo</em> since 1994. The Imperial Court is a grassroots organization in Western New York that is affliated with the <em>International Court System</em>. It is a 501-(c)3 Not For Profit that raises funds for various AIDS/HIV and LGBTQ+ charities in Buffalo, NY and the surrounding Western New York Area. During my time as a member I've held numerous postions within the Board of Directors as well as two terms as <em>"Emperor,"</em> which is one of the two elected fundraising chairs of the organization. I currently sit as the President of the Board of Directors.
+				</p>
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/emperor_hs.jpg" alt="emperor vince">
+			</div>
+			<div class="col-sm-12 col-md-8 col-lg-9">
+				<p>
+					I am also an avid knitter, having first learning how to knit in the late 1980's. I am a long time member of <em>The Knitting Guild of Greater Buffalo</em> and one of the few male knitters within the group. But our numbers are growing. I have also become a member of <em>The Men Who Knit</em> online community, as well as having attended several of the regional <em>Men's Knitting Retreats</em>.
+				</p>
+			</div>
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/knitting_hs.jpg" alt="vince knitter">
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-8">
+				<p>
+					In October of 2020 I entered the world of Podcasting by creating a YouTube Video Channel called <em>Boozie Bears Knitting Podcast</em>. Together with my good friend Justin, we co-host an online video program about knitting and the fiber arts. We publish a new episode every 2-3 weeks and each episode runs between 60 and 90 minutes. In each episode we discuss and show what we are currently working on, what we have completed, purchases and fiber related acquisitions, as well as anything else we feel the need to discuss. We have a growing following of subscribers and recently held our very first LIVE broadcast.
+				</p>
+			</div>
+			<div class="col-sm-12 col-md-6 col-lg-4">
+				<img src="img/boozie_hs.jpg" alt="boozie bears knitting">
+			</div>
+			<p>
+				Be sure to check out the other pages of my site as well as my Links for more information on all of this.
+			</p>
+		</div>
 
-</div>
+	</div>
 
 	<?php include 'footer.php'; ?>
 	<!-- Option 1: Bootstrap Bundle with Popper -->
