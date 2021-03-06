@@ -21,8 +21,12 @@ header h1 {
 	color: #FFFFFF;
 }
 
-footer h5 {
-	padding-top: 4%;
+.contact {
+	padding: 2% 0% 0% 5%;
+}
+
+.link {
+	padding: 2% 0% 0% 5%;
 }
 
 footer a {
@@ -31,8 +35,7 @@ footer a {
 }
 
 footer a:hover {
-	color: #FFFFFF;
-	font-weight: bolder;
+	color: #666666;
 }
 /* Navigation Bar */
 
