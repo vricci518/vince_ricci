@@ -33,7 +33,7 @@
 	<!-- Intro page information -->
 	<div class="container-fluid" id="intro">
 		<h2>A Little Bit About Me</h2>
-		<div class="row">
+		<div class="row home">
 			<div class="col-sm-12 col-md-8 col-lg-9">
 				<p>
 					Hi there, my name is Vince and welcome to my page. So let's start with some information about me. I'm from Buffalo, New York and I've lived here all of my life. I went to college at SUNY Buffalo State College where I received a Bachelors of Fine Arts degree. I am a Graphic Designer/Graphic Artist who has worked in a variety of positions in the field: involving printing, pre-press, design and layout, marketing, e-commerce, and social media. I'm currently studying Web development to expand my opportunities to include Web Design and Front End Development.

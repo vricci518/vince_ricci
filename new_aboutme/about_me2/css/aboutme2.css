@@ -1,5 +1,5 @@
 body {
-	background-color: #e6f0fe;
+	background-color: #B6EB0C95;
 }
 
 #header {
@@ -61,12 +61,14 @@ h2 {
 
 #intro {
 	width: 85%;
+	background-color: #FFFFFF95;
+	border-radius: 2rem;
 }
 
 .col-sm-12 {
 	padding-bottom: 2%;
 }
 
-.row img {
+.home img {
 	border: .25rem solid #7C9E10;
 }
