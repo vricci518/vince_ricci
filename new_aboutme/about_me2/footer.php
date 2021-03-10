@@ -19,13 +19,12 @@
 		<div class="col-sm-12 col-md-3 link">
 			<h5>Links</h5>
 			<p>
-				<a href="aboutme2.php">Home</a><br />
+				<a href="index.php">Home</a><br />
 				<a href="https://vincent-ricci-graphics.myportfolio.com/work" target="_blank">My Graphic Design Porfolio</a><br />
 				<a href="podcasts.php">Knitting Podcasts</a><br />
 				<a href="projects.php">Knitting Projects</a><br />
 				<a href="dyeing.php">Yarn Dyeing</a><br />
 			</p>
 		</div>
-
 	</div>
 </footer>
