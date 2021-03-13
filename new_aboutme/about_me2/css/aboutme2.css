@@ -18,6 +18,7 @@ header h1 {
 #footer {
 	background-color: #033D96;
 	color: #FFFFFF;
+	margin-top: 20px;
 }
 
 .contact {
@@ -64,14 +65,12 @@ h2 {
 	background-color: #cde1fe;
 	border-radius: 2rem;
 	padding-left: 50px;
-}
-
-.col-sm-12 {
-	padding-bottom: 5%;
+	margin-top: 20px;
 }
 
 .home img {
 	border: .25rem solid #7C9E10;
+	margin-bottom: 1rem;
 }
 
 .podcast {
@@ -81,4 +80,24 @@ h2 {
 .podcast a{
 	text-decoration: none;
 	color: black;
+}
+
+.podcast a:hover {
+	color: #666666;
+}
+
+.card {
+	margin: 1rem auto;
+	border-radius: 1rem;
+	border: .5rem solid #7C9E10;
+	/* background-color: #e4fa9e; */
+}
+
+.card img {
+	width: 60%;
+	margin: auto;
+}
+
+.card-title {
+	font-weight: bold;
 }
