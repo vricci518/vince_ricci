@@ -46,35 +46,35 @@
 		</div>
 		<h2>Knitting Podcasts That I follow</h2>
 		<div class="row">
-			<div class="card" style="width: 28rem;">
-				<img src="img/grocerygirls.jpg" class="card-img-top" alt="grocery girls">
+			<div class="card m-3" style="width: 28rem;">
+				<img src="img/grocerygirls.jpg" class="card-img-top pt-2" alt="grocery girls">
 				<div class="card-body">
 					<h5 class="card-title">Grocery Girls</h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<p class="card-text">A knitting podcast hosted by Jodi Brown and Tracie Millar. A couple of knitting obsessed sisters who love to talk about all things fiber related. Thier podcast is what we aspire to be. They gave a shout-out to our podcast which was the start of our surge of subscribers.</p>
 					<a href="https://www.youtube.com/channel/UCsHAwj2jXiwpiYOdYiY3Tgg" class="btn btn-primary" target="blank">YouTube Channel</a>
 				</div>
 			</div>
-			<div class="card" style="width: 28rem;">
-				<img src="img/needlesattheready.jpg" class="card-img-top" alt="needles at the ready">
+			<div class="card m-3" style="width: 28rem;">
+				<img src="img/needlesattheready.jpg" class="card-img-top pt-2" alt="needles at the ready">
 				<div class="card-body">
 					<h5 class="card-title">Needles At The Ready</h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<p class="card-text">Kevin and Ray are two male knitters who care a married couple. They were a big part of our inspiration to start a knitting podcast.</p>
 					<a href="https://www.youtube.com/channel/UCddw7HH_G0e9Mhfxt89H-PA" class="btn btn-primary" target="blank">YouTube Channel</a>
 				</div>
 			</div>
-			<div class="card" style="width: 28rem;">
-				<img src="img/beardedpurl.jpg" class="card-img-top" alt="the bearded purl">
+			<div class="card m-3" style="width: 28rem;">
+				<img src="img/beardedpurl.jpg" class="card-img-top pt-2" alt="the bearded purl">
 				<div class="card-body">
 					<h5 class="card-title">The Bearded Purl</h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<p class="card-text">Caleb is a crafty guy who loves to knit and talk about all things related to the fiber arts. His partner Justin later joined him in producing episodes which adds a lot of fun banter to each episode.</p>
 					<a href="https://www.youtube.com/channel/UCSS0oRWAMtphvdiqCQegQ6g" class="btn btn-primary" target="blank">YouTube Channel</a>
 				</div>
 			</div>
-			<div class="card" style="width: 28rem;">
-				<img src="img/drowninginyarn.jpg" class="card-img-top" alt="drowning in yarn">
+			<div class="card m-3" style="width: 28rem;">
+				<img src="img/drowninginyarn.jpg" class="card-img-top pt-2" alt="drowning in yarn">
 				<div class="card-body">
 					<h5 class="card-title">Drowning In Yarn</h5>
-					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					<p class="card-text">Caleb is a knitter and software developer who also has a love of the fiber arts. He goes solo in his podcasts, along with the occasional guests. He is very accomplished in technique and best practices for achieving excellent results with his craft.</p>
 					<a href="https://www.youtube.com/channel/UCuT6OXBqFfYum7nHbcrRY0g" class="btn btn-primary" target="blank">YouTube Channel</a>
 				</div>
 			</div>

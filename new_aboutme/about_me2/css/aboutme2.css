@@ -1,5 +1,5 @@
 body {
-	background-color: #9bc2fd;
+	background-color: #cde1fe;
 }
 
 #header {
@@ -61,9 +61,7 @@ h2 {
 }
 
 #intro {
-	width: 80%;
-	background-color: #cde1fe;
-	border-radius: 2rem;
+	width: 85%;
 	padding-left: 50px;
 	margin-top: 20px;
 }
@@ -87,7 +85,7 @@ h2 {
 }
 
 .card {
-	margin: 1rem auto;
+	/* margin: 1rem auto; */
 	border-radius: 1rem;
 	border: .5rem solid #7C9E10;
 	/* background-color: #e4fa9e; */
