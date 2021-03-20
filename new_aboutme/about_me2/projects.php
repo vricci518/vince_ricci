@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<link rel="stylesheet" href="css/aboutme2.css">
 
-	<title>Vincent Ricci Jr - Projects</title>
+	<title>Vincent Ricci Jr - Knitting Projects</title>
 </head>
 
 <body>

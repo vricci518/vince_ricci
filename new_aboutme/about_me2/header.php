@@ -30,5 +30,6 @@
 					</ul>
 				</div>
 			</div>
-		</nav><br />
+		</nav>
 	</header>
+	
