@@ -25,15 +25,32 @@
 				<div class="col">
 					<div class="card shadow-sm">
 						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+							<title>Icelandic Sweater 2020</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Icelandic Sweater 2020</text>
 						</svg>
 
 						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">My current Work In Progress. This is a re-do of a sweater that I made in the 1980's. It was a favorite and was something I enjoyed making. The original sweater is just a bit snug so I decided to cast on a new one.</p>
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-								<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
+								<a href="https://www.ravelry.com/projects/yarnguy716/design-4-2" button type="button" class="btn btn-sm btn-outline-primary" target="blank">Ravelry Page</a>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col">
+					<div class="card shadow-sm">
+					<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+							<title>Bernie Mittens</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Bernie Mittens</text>
+						</svg>
+
+						<div class="card-body">
+							<p class="card-text">This pattern is a knock off of the mittens that Senator Bernie Sanders wore to the 2021 Presidential Inaugeration. The fiber community was abuzz about them and several patterns came out soon afterwards. This one was my favorite and I think was the best written pattern.</p>
+							<div class="d-flex justify-content-between align-items-center">
+								<div class="btn-group">
+									<a href="https://www.ravelry.com/projects/yarnguy716/m4a-mittens-bernie-mittens" target="blank" button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</a>
 								</div>
 							</div>
 						</div>
@@ -42,32 +59,15 @@
 				<div class="col">
 					<div class="card shadow-sm">
 						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+							<title>Wallaby Hoodie</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Wallaby Hoodie</text>
 						</svg>
 
 						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">I have always loved this hoodie sweater and when two of the guys from the Great Lakes Men's Knitting Retreat made theirs I knew I had to make one for myself.</p>
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-									<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col">
-					<div class="card shadow-sm">
-						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
-						</svg>
-
-						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-							<div class="d-flex justify-content-between align-items-center">
-								<div class="btn-group">
-								<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
+								<a href="https://www.ravelry.com/projects/yarnguy716/a-wonderful-wallaby---1983" alt="wallaby hoodie" button type="button" class="btn btn-sm btn-outline-primary" target="blank">Ravelry Page</a>
 								</div>
 							</div>
 						</div>
@@ -77,15 +77,15 @@
 				<div class="col">
 					<div class="card shadow-sm">
 						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+							<title>Guelph Lace Shawl</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Guelph Lace Shawl</text>
 						</svg>
 
 						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">I made this lace shawl for my cousin Rachael. It was designed by Leo de Pola who's inspiration came during the Canadian Men's Knitting Retreat in Guelph, Ontario.</p>
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-								<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
+								<a href="https://www.ravelry.com/projects/yarnguy716/guelph" target="blank" type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</a>
 								</div>
 							</div>
 						</div>
@@ -94,14 +94,14 @@
 				<div class="col">
 					<div class="card shadow-sm">
 						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+							<title>Strandwanderer</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Strandwanderer</text>
 						</svg>
 						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">This is one of my favorite patterns. I took a class on how to make this at a local yarn shop and loved how it looked. You can never have too many Strandwanders and I've made several of them.</p>
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-								<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
+								<a href="https://www.ravelry.com/projects/yarnguy716/strandwanderer" target="blank" type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</a>
 								</div>
 							</div>
 						</div>
@@ -110,14 +110,14 @@
 				<div class="col">
 					<div class="card shadow-sm">
 						<svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-							<title>Placeholder</title>
-							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>
+							<title>School Spirit Cardigan</title>
+							<rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em">School Spirit Cardigan</text>
 						</svg>
 						<div class="card-body">
-							<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+							<p class="card-text">I designed this cardigan based on an existing Fishermans Rib pattern. I entered it in the 2014 Erie County Fair and received a White Ribbon Honorable Mention</p>
 							<div class="d-flex justify-content-between align-items-center">
 								<div class="btn-group">
-								<button type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</button>
+								<a href="https://www.ravelry.com/projects/yarnguy716/school-spirit-sweater-cardigan" target="blank" type="button" class="btn btn-sm btn-outline-primary">Ravelry Page</a>
 								</div>
 							</div>
 						</div>

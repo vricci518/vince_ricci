@@ -111,7 +111,9 @@ h2 {
 }
 
 .bd-placeholder-img {
-	font-size: 1.125rem;
+	font-size: 1.5rem;
+	font-weight: 900;
+	text-transform: uppercase;
 	text-anchor: middle;
 	-webkit-user-select: none;
 	-moz-user-select: none;
