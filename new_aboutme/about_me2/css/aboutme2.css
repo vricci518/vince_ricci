@@ -94,34 +94,21 @@ h2 {
 	color: #666666;
 }
 
+/* Project page cards */
+
 .card {
-	/* margin: 1rem auto; */
 	border-radius: 1rem;
 	border: .5rem solid #7C9E10;
-	/* background-color: #e4fa9e; */
 }
 
 .card img {
 	margin: auto;
 	width: 50%;
+	border-radius: 1rem;
+	margin-top: 0.5rem;
 }
 
 .card-title {
 	font-weight: bold;
-}
-
-/* .bd-placeholder-img {
-	font-size: 1.5rem;
-	font-weight: 900;
 	text-transform: uppercase;
-	text-anchor: middle;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	user-select: none;
-} */
-
-@media (min-width: 768px) {
-	.bd-placeholder-img-lg {
-		font-size: 3.5rem;
-	}
 }
