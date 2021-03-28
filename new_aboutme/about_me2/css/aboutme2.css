@@ -102,15 +102,15 @@ h2 {
 }
 
 .card img {
-	width: 60%;
 	margin: auto;
+	width: 50%;
 }
 
 .card-title {
 	font-weight: bold;
 }
 
-.bd-placeholder-img {
+/* .bd-placeholder-img {
 	font-size: 1.5rem;
 	font-weight: 900;
 	text-transform: uppercase;
@@ -118,7 +118,7 @@ h2 {
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	user-select: none;
-}
+} */
 
 @media (min-width: 768px) {
 	.bd-placeholder-img-lg {
