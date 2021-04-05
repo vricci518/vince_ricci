@@ -10,13 +10,8 @@
 						<li class="nav-item">
 							<a class="nav-link" href="podcasts.php">Knitting Podcasts</a>
 						</li>
-						<li class="nav-item dropdown">
 						<li class="nav-item">
 							<a class="nav-link" href="projects.php">Knitting Projects</a>
-						</li>
-						<li class="nav-item dropdown">
-						<li class="nav-item">
-							<a class="nav-link" href="dyeing.php">Yarn Dyeing</a>
 						</li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Links</a>
