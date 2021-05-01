@@ -2,7 +2,10 @@
 		<h1>Vincent Ricci Jr - Graphic Designer</h1>
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
 			<div class="container-fluid">
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 						<li class="nav-item">
 							<a class="nav-link" aria-current="page" href="index.php">Home</a>
@@ -27,4 +30,3 @@
 			</div>
 		</nav>
 	</header>
-	
